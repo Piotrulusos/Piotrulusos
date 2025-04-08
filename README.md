@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on https://github.com/JakubLipnicki/emplocity-audio-upload-thing
+
 🌱 I’m currently learning Flutter technology.
 😄 I was working on:
 
