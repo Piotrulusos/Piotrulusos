@@ -3,6 +3,7 @@
 🔭 I’m currently working on https://github.com/JakubLipnicki/emplocity-audio-upload-thing
 
 🌱 I’m currently learning Flutter technology.
+
 😄 I was working on:
 
 https://github.com/xHezuSx/Motokomando_800_czw     - scraper of GPW
