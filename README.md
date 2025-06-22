@@ -14,9 +14,6 @@ https://github.com/MichalKornatowski2003/Titanic   - first AI project
 
 https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload working like YT 
 
-### Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piotrulusos&layout=compact&hide=html)
-
 <!--
 **Piotrulusos/Piotrulusos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
