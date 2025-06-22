@@ -12,7 +12,7 @@ https://github.com/knsiczarnamagia/hate-detection  - hate detector
 
 https://github.com/MichalKornatowski2003/Titanic   - first AI project
 
-https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload working like YT 
+https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload similar like YouTube (comments, like etc.) 
 
 <!--
 **Piotrulusos/Piotrulusos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
