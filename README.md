@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Flutter technology.
 
+🔭 I’m currently working in Wama Soft.
+
 😄 I was working on:
 
 https://github.com/xHezuSx/Motokomando_800_czw     - scraper of GPW
