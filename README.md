@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Flutter technology.
+🌱 I’m currently learning C#, angular, TypeScript, Node.JS, AngularJS, PHP, service etc.
 
 🔭 I’m currently working in Wama Soft.
 
