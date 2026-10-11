@@ -12,6 +12,8 @@ https://github.com/knsiczarnamagia/nlp-1-yt-plugin - clicbait YT detector
 
 https://github.com/knsiczarnamagia/hate-detection  - hate detector
 
+https://github.com/Piotrulusos/pogodynka_app - Weather APP
+
 https://github.com/JakubLipnicki/emplocity-audio-upload-thing - MP3 upload similar like YouTube (comments, like etc.) 
 
 <!--
