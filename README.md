@@ -8,6 +8,8 @@
 
 https://github.com/xHezuSx/Motokomando_800_czw     - scraper of GPW
 
+https://github.com/Piotrulusos/Programowanie-Deklaratywne   - production management system
+
 https://github.com/knsiczarnamagia/nlp-1-yt-plugin - clicbait YT detector 
 
 https://github.com/knsiczarnamagia/hate-detection  - hate detector
